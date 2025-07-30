@@ -10,7 +10,7 @@ const player = document.querySelector('.player'),
     img_src = document.querySelector('.img_src')
 
 // название песен
-const songs = ['Darari', 'Fire', 'Not Today']
+const songs = ['Darari', 'Fire', 'Not Today', 'Run', 'Go', 'Black Swan', 'Dreamers', 'Mic Drop']
 
 // песня по умолчанию
 let songIndex = 0;
